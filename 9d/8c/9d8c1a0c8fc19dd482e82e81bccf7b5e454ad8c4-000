@@ -126,3 +126,11 @@
 > J’ai **rétabli Daily Focus** et **fermé ZenRayDictate** pour isoler ta piste. Les autres utilitaires repérés comprennent WD Discovery, TRex, Wacom et le minuteur YouTube. (11 October 2026, 19:27:30 +0200)
 >
 > Reteste maintenant le plein écran, souris au centre : **la barre disparaît-elle sans ZenRayDictate ?** Ce résultat permettra de confirmer ou d’écarter son rôle avant de modifier son code. (11 October 2026, 19:27:30 +0200)
+
+## 11 October 2026, 19:30:29 +0200 : Prompt
+
+<!-- feedback-event:5d6a76c17df8bbcc34c605aa4605dba4d44beaebca919e4ed2f3250b86042cea (11 October 2026, 19:30:29 +0200) -->
+- Project: conversation-codex-5d9e1d22c027cff20afc7ce1; kind: prompt. (11 October 2026, 19:30:29 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/11/rollout-2026-10-11T19-16-45-01a12bf7-8be3-7591-b4ac-649f5526a1da.jsonl. (11 October 2026, 19:30:29 +0200)
+
+> bordel va sur des forums et tant que c'est pas réglé continue [$dont-stop](/Users/zenray/.codex/skills/dont-stop/SKILL.md) (11 October 2026, 19:30:29 +0200)

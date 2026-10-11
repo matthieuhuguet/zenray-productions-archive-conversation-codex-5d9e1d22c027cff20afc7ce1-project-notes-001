@@ -170,3 +170,19 @@
 - Source: checkpoint:codex:01a12bf7-8be3-7591-b4ac-649f5526a1da. (11 October 2026, 20:36:29 +0200)
 
 > YouTube fullscreen now displays without white titlebar with Dictate and SleepShutdown running. System UI components restarted; fullscreen menu-bar hiding set false visible. No source edits. Chrome restored out of video fullscreen. Immediate success proven; root cause and permanent nonrecurrence unproven. (11 October 2026, 20:36:29 +0200)
+
+## 11 October 2026, 20:36:39 +0200 : Iteration
+
+<!-- feedback-event:4b986e3eefab20b37aee3645840685c6b7741d9e31ed68d902875e8b1e7705ac (11 October 2026, 20:36:39 +0200) -->
+- Project: conversation-codex-5d9e1d22c027cff20afc7ce1; kind: iteration. (11 October 2026, 20:36:39 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/11/rollout-2026-10-11T19-16-45-01a12bf7-8be3-7591-b4ac-649f5526a1da.jsonl. (11 October 2026, 20:36:39 +0200)
+
+> La bande blanche disparaît désormais dans mes tests YouTube, **même avec ZenRayDictate et Daily Focus relancés**. (11 October 2026, 20:36:39 +0200)
+>
+> J’ai relancé les composants macOS qui gèrent les fenêtres et la barre supérieure, suivant une [piste documentée sur les forums](https://apple.stackexchange.com/a/424354). (11 October 2026, 20:36:39 +0200)
+>
+> | Ce que tu voulais | État | Preuve | (11 October 2026, 20:36:39 +0200)
+> |---|---|---| (11 October 2026, 20:36:39 +0200)
+> | Faire disparaître la barre | Oui | Capture du plein écran sans boutons | (11 October 2026, 20:36:39 +0200)
+> | Garder Dictate actif | Oui | Test réussi après sa relance | (11 October 2026, 20:36:39 +0200)
+> | Résoudre définitivement | À confirmer | La cause exacte et l’absence de récidive restent à vérifier | (11 October 2026, 20:36:39 +0200)

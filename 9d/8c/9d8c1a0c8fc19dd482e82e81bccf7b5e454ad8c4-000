@@ -116,3 +116,13 @@
 - Source: checkpoint:codex:01a12bf7-8be3-7591-b4ac-649f5526a1da. (11 October 2026, 19:26:58 +0200)
 
 > 11 October 2026 : barre persistante sans Daily Focus, SleepShutdown restauré et relu. ZenRayDictate fermé proprement, processus absent. Test utilisateur demandé sans Dictate ; causalité non démontrée. Utilitaires actifs recensés : WD Discovery, TRex, Wacom, apps Claude/Codex/Antigravity, SocialMediaGuardTimer. Prochain : résultat du test puis rétablir Dictate pour confirmer ou écarter. (11 October 2026, 19:26:58 +0200)
+
+## 11 October 2026, 19:27:30 +0200 : Iteration
+
+<!-- feedback-event:52dc11d8e80bccc538a0a352593a3f4f8ebe02ac4546f58ec0bc5603860e2e9a (11 October 2026, 19:27:30 +0200) -->
+- Project: conversation-codex-5d9e1d22c027cff20afc7ce1; kind: iteration. (11 October 2026, 19:27:30 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/11/rollout-2026-10-11T19-16-45-01a12bf7-8be3-7591-b4ac-649f5526a1da.jsonl. (11 October 2026, 19:27:30 +0200)
+
+> J’ai **rétabli Daily Focus** et **fermé ZenRayDictate** pour isoler ta piste. Les autres utilitaires repérés comprennent WD Discovery, TRex, Wacom et le minuteur YouTube. (11 October 2026, 19:27:30 +0200)
+>
+> Reteste maintenant le plein écran, souris au centre : **la barre disparaît-elle sans ZenRayDictate ?** Ce résultat permettra de confirmer ou d’écarter son rôle avant de modifier son code. (11 October 2026, 19:27:30 +0200)

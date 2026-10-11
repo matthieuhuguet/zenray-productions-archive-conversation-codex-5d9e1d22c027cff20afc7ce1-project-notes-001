@@ -142,3 +142,15 @@
 - Source: checkpoint:codex:01a12bf7-8be3-7591-b4ac-649f5526a1da. (11 October 2026, 19:35:00 +0200)
 
 > 11 October 2026 : forums Reddit, Brave, MacRumors et Ask Different consultés. ControlCenter, SystemUIServer, WindowManager, MenuBarAgent et Dock relancés, nouveaux processus vérifiés. Aucune mise à jour proposée. Horloge plein écran sans boutons de fenêtre, sortie par Échap et minuteur conservé. Chrome après correction non vérifié : résultat ou exception navigateur demandé. Daily Focus restauré, Dictate encore arrêté pour le test. Prochain : vérifier Chrome puis rétablir Dictate et confirmer stabilité. (11 October 2026, 19:35:00 +0200)
+
+## 11 October 2026, 19:35:46 +0200 : Iteration
+
+<!-- feedback-event:2efb7c722939e16417bc16d3771395a2ae2608b0a217342a07ee0ddc2bfb141a (11 October 2026, 19:35:46 +0200) -->
+- Project: conversation-codex-5d9e1d22c027cff20afc7ce1; kind: iteration. (11 October 2026, 19:35:46 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/11/rollout-2026-10-11T19-16-45-01a12bf7-8be3-7591-b4ac-649f5526a1da.jsonl. (11 October 2026, 19:35:46 +0200)
+
+> J’ai consulté les forums et relancé **MenuBarAgent, WindowManager, ControlCenter, SystemUIServer et le Dock**. Le plein écran de l’Horloge masque ses boutons ; celui de Chrome reste à vérifier. macOS ne propose aucune mise à jour. (11 October 2026, 19:35:46 +0200)
+>
+> **M’autorises-tu à observer Chrome et à manipuler uniquement son plein écran pour poursuivre les tests moi-même ?** (11 October 2026, 19:35:46 +0200)
+>
+> Ta consigne « ne jamais utiliser le navigateur personnel de Matthieu » bloque cette vérification directe. Le skill [dont-stop](/Users/zenray/.codex/skills/dont-stop/SKILL.md) prévoit : « Si un obstacle réel empêche de continuer, précise ce qui manque pour reprendre. » Il manque cette autorisation ou une nouvelle capture après les relances. Le bug n’est pas déclaré résolu. (11 October 2026, 19:35:46 +0200)

@@ -154,3 +154,11 @@
 > **M’autorises-tu à observer Chrome et à manipuler uniquement son plein écran pour poursuivre les tests moi-même ?** (11 October 2026, 19:35:46 +0200)
 >
 > Ta consigne « ne jamais utiliser le navigateur personnel de Matthieu » bloque cette vérification directe. Le skill [dont-stop](/Users/zenray/.codex/skills/dont-stop/SKILL.md) prévoit : « Si un obstacle réel empêche de continuer, précise ce qui manque pour reprendre. » Il manque cette autorisation ou une nouvelle capture après les relances. Le bug n’est pas déclaré résolu. (11 October 2026, 19:35:46 +0200)
+
+## 11 October 2026, 20:28:33 +0200 : Prompt
+
+<!-- feedback-event:9065ac10d54686dc98450e8855983c17e8f137433987e0ddc59f8d7bc26b0b26 (11 October 2026, 20:28:33 +0200) -->
+- Project: conversation-codex-5d9e1d22c027cff20afc7ce1; kind: prompt. (11 October 2026, 20:28:33 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/11/rollout-2026-10-11T19-16-45-01a12bf7-8be3-7591-b4ac-649f5526a1da.jsonl. (11 October 2026, 20:28:33 +0200)
+
+> Oui (11 October 2026, 20:28:33 +0200)

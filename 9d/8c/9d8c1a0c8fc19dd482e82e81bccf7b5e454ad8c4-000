@@ -134,3 +134,11 @@
 - Source: /Users/zenray/.codex/sessions/2026/10/11/rollout-2026-10-11T19-16-45-01a12bf7-8be3-7591-b4ac-649f5526a1da.jsonl. (11 October 2026, 19:30:29 +0200)
 
 > bordel va sur des forums et tant que c'est pas réglé continue [$dont-stop](/Users/zenray/.codex/skills/dont-stop/SKILL.md) (11 October 2026, 19:30:29 +0200)
+
+## 11 October 2026, 19:35:00 +0200 : Iteration
+
+<!-- feedback-event:2feb235d4005ac8210b38b427d12a545736cb661dbd73f1778e5fbd579d3aa30 (11 October 2026, 19:35:00 +0200) -->
+- Project: conversation-codex-5d9e1d22c027cff20afc7ce1; kind: iteration. (11 October 2026, 19:35:00 +0200)
+- Source: checkpoint:codex:01a12bf7-8be3-7591-b4ac-649f5526a1da. (11 October 2026, 19:35:00 +0200)
+
+> 11 October 2026 : forums Reddit, Brave, MacRumors et Ask Different consultés. ControlCenter, SystemUIServer, WindowManager, MenuBarAgent et Dock relancés, nouveaux processus vérifiés. Aucune mise à jour proposée. Horloge plein écran sans boutons de fenêtre, sortie par Échap et minuteur conservé. Chrome après correction non vérifié : résultat ou exception navigateur demandé. Daily Focus restauré, Dictate encore arrêté pour le test. Prochain : vérifier Chrome puis rétablir Dictate et confirmer stabilité. (11 October 2026, 19:35:00 +0200)
